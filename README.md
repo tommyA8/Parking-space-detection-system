@@ -19,8 +19,9 @@ Approaches:
 <img src="https://github.com/tommyA8/Parking-space-detection-system/blob/main/yolov8_custom_model/runs/detect/val/confusion_matrix_normalized.png?raw=true" width="700" height="500"/>
 
 # Final Result
-`green bounding boxes` show each tracked car along with its ID number.
-`Red bounding boxes` indicating empty spaces have not been tracked.
+**green bounding boxes** show each tracked car along with its ID number.
+
+**Red bounding boxes** indicating empty spaces have not been tracked.
 
 - video ouput 1 [source](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
 
