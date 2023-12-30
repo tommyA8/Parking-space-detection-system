@@ -25,11 +25,11 @@ Approaches:
 
 - video ouput 1 [source](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
 
-[![source_img](https://github.com/tommyA8/Parking-space-detection-system/blob/main/images/Parking_space_detection_1.jpeg?raw=true)](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
+[![source_img1](https://github.com/tommyA8/Parking-space-detection-system/blob/main/images/Parking_space_detection_1.jpeg?raw=true)](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
 
 - video ouput 2 [source](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
 
-[![source_img](https://github.com/tommyA8/Parking-space-detection-system/blob/main/images/testImg.jpeg?raw=true)](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
+[![source_img2](https://github.com/tommyA8/Parking-space-detection-system/blob/main/images/testImg.jpeg?raw=true)](https://github.com/tommyA8/Parking-space-detection-system/blob/main/outputs/OUTPUT_BLK-HDPTZ12%20Security%20Camera%20Parkng%20Lot%20Surveillance%20Video.mp4)
 
 # Citation
 ```python
