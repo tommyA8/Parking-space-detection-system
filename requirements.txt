@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+numpy
+pandas
+deepsort==0.0.5
