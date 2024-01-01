@@ -137,7 +137,7 @@ class ParkingManager():
 if __name__ == "__main__":
     import timeit
 
-    model_path = "detection_model.pt.pt"
+    model_path = "./detection_model/train3/weights/best.pt"
     video_path = "./videos/test.mp4"
     
     usage = ParkingManager( detector=Detection_model(model_path=model_path),

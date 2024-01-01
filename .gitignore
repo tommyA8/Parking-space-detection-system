@@ -1,6 +1,5 @@
 __pycache__
-yolov8_custom_model
+yolov8_custom_model\runs\detect
 apikey.txt
-best.pt
 parking_space_detection.py
 tracker.py
