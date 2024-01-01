@@ -1,1 +1,6 @@
 __pycache__
+yolov8_custom_model
+apikey.txt
+best.pt
+parking_space_detection.py
+tracker.py
