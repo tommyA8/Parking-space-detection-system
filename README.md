@@ -10,13 +10,13 @@ Approaches:
 - Hyperparameter: `Epochs = 50` `optimizer = AdamW` `image size = 640x640` and `batch size = 32`
 ### Training result
 - Training result
-<p align="left">
-<img src="https://github.com/tommyA8/Parking-space-detection-system/blob/main/yolov8_custom_model/runs/detect/train/results.png?raw=true" width="800" height="450"/>
+<p align="center">
+<img src="https://github.com/tommyA8/Parking-space-detection-system/blob/main/detection_model/train3/results.png?raw=true" width="800" height="450"/>
 <p align="center">
 
 - Validation Confusion Matrix Normalized
 <p align="center">
-<img src="https://github.com/tommyA8/Parking-space-detection-system/blob/main/yolov8_custom_model/runs/detect/val/confusion_matrix_normalized.png?raw=true" width="700" height="500"/>
+<img src="https://github.com/tommyA8/Parking-space-detection-system/blob/main/detection_model/val3/confusion_matrix_normalized.png?raw=true" width="700" height="500"/>
 
 ## Final Result
 **green bounding boxes** show each tracked car along with its ID number.
