@@ -3,7 +3,7 @@ A system for smart parking spaces using an object detection model that can count
 
 Approaches:
 - Training YOLOv8 with [parking slot detecter](https://universe.roboflow.com/car-parking-space/parking-spot-detector-a84ql) dataset for Object detection
-- Using DeepSORT for Object Tracking
+- Using [DeepSORT](https://github.com/levan92/deep_sort_realtime) for Object Tracking
 - Developing a multi-object tracking system and counting the time
 
 ## Training
