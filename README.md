@@ -2,12 +2,13 @@
 A system for smart parking spaces using an object detection model that can count the duration a car has been parked
 
 Approaches:
-- Training YOLOv8s with [parking slot detecter](https://universe.roboflow.com/car-parking-space/parking-spot-detector-a84ql) dataset
+- Training YOLOv8 with [parking slot detecter](https://universe.roboflow.com/car-parking-space/parking-spot-detector-a84ql) dataset for Object detection
+- Using DeepSORT for Object Tracking
 - Developing a multi-object tracking system and counting the time
 
 ## Training
 - 2 Classes: `['empty', 'occupied']`
-- Hyperparameter: `Epochs = 50` `optimizer = AdamW` `image size = 640x640` and `batch size = 32`
+- Hyperparameter: `Epochs = 200` `optimizer = AdamW` `image size = 640x640` and `batch size = 64`
 ### Training result
 - Training result
 <p align="left">
